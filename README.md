@@ -1,25 +1,37 @@
+---
+### Profile Views
 ![](https://komarev.com/ghpvc/?username=Korozin)
 
+---
 ### Me in the middle of trying to code be like-
 ![aHhHH](https://user-images.githubusercontent.com/90534409/202776322-69b69f3b-4bd9-4848-b7aa-8b8e56750dfb.gif)
 
 
-### Maintaned Projects
 
 ---
+### Maintaned Projects
 ```javascript
 Projects = {
     "PyRSS",
     "Minecraft WiiU Mod Archive",
 }
 ```
+---
 
-"Instagram"; "[Korio](https://www.instagram.com/korozin_alt/)",
+
+### Social Media
+
+Instagram ; [Korio](https://www.instagram.com/korozin_alt/)
 <br/>
-"GBATemp"; "[Korozin](https://gbatemp.net/members/korozin.571007/)",
-"YouTube"; "[Korozin](https://www.youtube.com/channel/UCUBwuQleW8P3NRDlaJZviuQ)",
-"Gmail"; "mammothasdfman@gmail.com",
-"Alt-Mail"; "korozin@net-c.com"
+GBATemp ; [Korozin](https://gbatemp.net/members/korozin.571007/)
+<br/>
+YouTube ; [Korozin](https://www.youtube.com/channel/UCUBwuQleW8P3NRDlaJZviuQ)
+<br/>
+Gmail ; mammothasdfman@gmail.com
+<br/>
+Alt-Mail ; korozin@net-c.com
+
+---
 
 
 ### Stats
@@ -43,3 +55,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+###
+---
