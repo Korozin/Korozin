@@ -4,21 +4,26 @@
 ![aHhHH](https://user-images.githubusercontent.com/90534409/202776322-69b69f3b-4bd9-4848-b7aa-8b8e56750dfb.gif)
 
 
-### Socials
+### Maintaned Projects
 
 ---
-```JSON
-SocialMedia = {
-    "Instagram"; "[Korio](https://www.instagram.com/korozin_alt/)",
-    "GBATemp"; "[Korozin](https://gbatemp.net/members/korozin.571007/)",
-    "YouTube"; "[Korozin](https://www.youtube.com/channel/UCUBwuQleW8P3NRDlaJZviuQ)",
-    "Gmail"; "mammothasdfman@gmail.com",
-    "Alt-Mail"; "korozin@net-c.com"
+```javascript
+Projects = {
+    "PyRSS",
+    "Minecraft WiiU Mod Archive",
 }
 ```
 
+"Instagram"; "[Korio](https://www.instagram.com/korozin_alt/)",
+<br/>
+"GBATemp"; "[Korozin](https://gbatemp.net/members/korozin.571007/)",
+"YouTube"; "[Korozin](https://www.youtube.com/channel/UCUBwuQleW8P3NRDlaJZviuQ)",
+"Gmail"; "mammothasdfman@gmail.com",
+"Alt-Mail"; "korozin@net-c.com"
+
 
 ### Stats
+<!-- thx Cedeke -->
 
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Korozin&layout=compact&theme=github_dark&count_private=true" /><br />    
