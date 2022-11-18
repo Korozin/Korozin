@@ -7,11 +7,11 @@
 ### Socials
 
 ---
-```json
+```JSON
 SocialMedia = {
-    "Instagram"; "Korio(https://www.instagram.com/korozin_alt/)",
-    "GBATemp"; "Korozin(https://gbatemp.net/members/korozin.571007/)",
-    "YouTube"; "Korozin(https://www.youtube.com/channel/UCUBwuQleW8P3NRDlaJZviuQ)",
+    "Instagram"; "[Korio](https://www.instagram.com/korozin_alt/)",
+    "GBATemp"; "[Korozin](https://gbatemp.net/members/korozin.571007/)",
+    "YouTube"; "[Korozin](https://www.youtube.com/channel/UCUBwuQleW8P3NRDlaJZviuQ)",
     "Gmail"; "mammothasdfman@gmail.com",
     "Alt-Mail"; "korozin@net-c.com"
 }
