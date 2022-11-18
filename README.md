@@ -13,7 +13,7 @@
 ```javascript
 Projects = {
     "PyRSS",
-    "Minecraft WiiU Mod Archive",
+    "Minecraft WiiU Mod Archive"
 }
 ```
 ---
