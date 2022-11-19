@@ -49,7 +49,7 @@ Instagram ; [Korio](https://www.instagram.com/korozin_alt/)
 <br/>
 GBATemp ; [Korozin](https://gbatemp.net/members/korozin.571007/)
 <br/>
-YouTube ; [Korozin](https://www.youtube.com/channel/UCUBwuQleW8P3NRDlaJZviuQ)
+YouTube ; [Korozin](https://www.youtube.com/@KorOwOzin)
 <br/>
 Gmail ; mammothasdfman@gmail.com
 <br/>
