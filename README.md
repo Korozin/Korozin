@@ -64,8 +64,8 @@ Alt-Mail ; korozin@net-c.com
 <!-- thx Cedeke -->
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Korozin&layout=compact&theme=github_dark&count_private=true" /><br />    
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Korozin&show_icons=true&theme=github_dark&count_private=true" /><br />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Korozin&layout=compact&theme=github_dark&count_private=true" /><br />    
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Korozin&show_icons=true&theme=github_dark&count_private=true" /><br />
 </div>
 <!--
 **Korozin/Korozin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
