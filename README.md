@@ -10,29 +10,8 @@
 
 ---
 ### About Me
-```python
-import sys
 
-Name = str(input('What\'s your name? : '))
-Pronouns = str(input('What\'s your pronouns? : '))
-Occupation = str(input('What is your job / hobbies? : '))
-Age = int(input(f'How old are you {Name}? : '))
-
-if Age < 18:
-    Age = 'Under 18'
-elif Age > 18:
-    Age = 'Over 18'
-else:
-    sys.exit()
-   
-FCL = str(input('Fav Coding Language? : '))
-
-Greet = (f'Hello my name is {Name}, my Pronouns are {Pronouns} and I\'m {Age}. Also I\'m {Occupation}. My favorite Coding languge is {FCL}!')
-print(Greet)
-
-```
-
-Hello my name is Korozin, my Pronouns are (She / They) and I'm Under 18. Also I'm Just a bored furry who likes programming, art, and animation. My favorite Coding languge is Python. Duh!
+Hello, my online name is Korozin. I'm Just a bored furry who likes programming, art, and animation. My favorite Coding languge is Python, but I'm trying to branch out into new languages such as Java, and Rust.
 
 ---
 ### Maintaned Projects
