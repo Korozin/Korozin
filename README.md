@@ -2,6 +2,9 @@
 ### Profile Views
 ![](https://komarev.com/ghpvc/?username=Korozin)
 
+### Currently Listening To
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=r3phtzjkt3xdau2sktpp0ngev&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=33d17a&bar_color_cover=true)
+
 ---
 ### Me in the middle of trying to code be like-
 <!-- ![aHhHH](https://user-images.githubusercontent.com/90534409/202776322-69b69f3b-4bd9-4848-b7aa-8b8e56750dfb.gif) -->
