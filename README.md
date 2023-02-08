@@ -26,7 +26,7 @@ Projects = {
 
 ### Social Media
 
-Instagram ; [Korio](https://www.instagram.com/korozin_alt/)
+Instagram ; [KorOwOzin](https://www.instagram.com/korowozin/)
 <br/>
 GBATemp ; [Korozin](https://gbatemp.net/members/korozin.571007/)
 <br/>
