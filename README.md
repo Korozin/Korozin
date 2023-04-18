@@ -14,15 +14,6 @@
 Hello, my online name is Korozin. I'm Just a bored furry who likes programming, art, and animation. My favorite Coding languge is Python, but I'm trying to branch out into new languages such as Java, and Rust.
 
 ---
-### Maintaned Projects
-```javascript
-Projects = {
-    "PyRSS",
-    "Minecraft WiiU Mod Archive"
-}
-```
----
-
 
 ### Social Media
 
