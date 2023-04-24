@@ -38,8 +38,8 @@
 
 <div align="center">
     <h3>Stats</h3>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Korozin&theme=gotham&langs_count=10&layout=compact&count_private=true" /><br />    
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Korozin&show_icons=true&theme=gotham&count_private=true" /><br />
+    <img align="center" src="https://readme-stats.jonas-bernard.dev/api/top-langs/?username=Korozin&theme=gotham&langs_count=10&layout=compact&count_private=true" /><br />    
+    <img align="center" src="https://readme-stats.jonas-bernard.dev/api?username=Korozin&show_icons=true&theme=gotham&count_private=true" /><br />
 </div>
 
 <!--
