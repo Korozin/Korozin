@@ -38,13 +38,12 @@
 
 <div align="center">
     <h3>Stats</h3>
-    <img align="center" src="https://readme-stats.jonas-bernard.dev/api/top-langs/?username=Korozin&theme=gotham&langs_count=10&layout=compact&count_private=true" /><br />    
-    <img align="center" src="https://readme-stats.jonas-bernard.dev/api?username=Korozin&show_icons=true&theme=gotham&count_private=true" /><br />
-    <img allign="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Korozin&theme=gotham&hide_border=false" /><br />
+    <img align="center" src="https://readme-stats.jonas-bernard.dev/api/top-langs/?username=Korozin&theme=transparent&langs_count=10&layout=compact&count_private=true&hide_border=true" /><br />    
+    <img align="center" src="https://readme-stats.jonas-bernard.dev/api?username=Korozin&show_icons=true&theme=transparent&count_private=true&hide_border=true" /><br />
+    <img allign="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Korozin&theme=transparent&count_private=true&hide_border=true" /><br />
 </div>
 
-<!--
-**Korozin/Korozin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--transparent**Korozin/Korozin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
