@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>Profile Views:</h3>
-  <img align="center" src="https://komarev.com/ghpvc/?username=Korozin" /><br />
+  <img align="center" src="https://komarev.com/ghpvc/?username=Korozin&style=for-the-badge&color=f164b9" /><br />
 </div>
 
 ---
