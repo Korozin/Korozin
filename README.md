@@ -18,7 +18,7 @@
 
 <div align="center">
   <h3>About Me:</h3>
-  <p>Hello, my online name is Korozin. I like programming, art, and animation UwU. My favorite Coding languge is Python, but I'm trying to branch out into new languages such as C++</p><br />
+  <p>Hello, my online name is Korozin. I like programming, art, and animation. My favorite Coding languge is Python, but I'm trying to branch out into new languages such as C++</p><br />
 </div>
 
 ---
