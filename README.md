@@ -18,14 +18,13 @@
 
 <div align="center">
   <h3>About Me:</h3>
-  <p>Hello, my online name is Korozin. I'm Just a bored furry who likes programming, art, and animation UwU. My favorite Coding languge is Python, but I'm trying to branch out into new languages such as C++</p><br />
+  <p>Hello, my online name is Korozin. I like programming, art, and animation UwU. My favorite Coding languge is Python, but I'm trying to branch out into new languages such as C++</p><br />
 </div>
 
 ---
 
 <div align="center">
   <h3>Social Media:</h3>
-  <p>Instagram : <a href="https://www.instagram.com/korowozin/">@KorOwOzin</a></p>
   <p>GBATemp : <a href="https://gbatemp.net/members/korozin.571007/">@Korozin</a></p>
   <p>YouTube : <a href="https://www.youtube.com/@KorOwOzin">@KorOwOzin</a></p>
   <p>Gmail : <a href="mailto:mammothasdfman@gmail.com">mammothasdfman@gmail.com</a></p>
