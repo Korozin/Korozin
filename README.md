@@ -37,23 +37,9 @@
 
 <div align="center">
     <h3>Stats</h3>
-    <img align="center" src="https://readme-stats.jonas-bernard.dev/api/top-langs/?username=Korozin&theme=transparent&langs_count=10&layout=compact&count_private=true&hide_border=true" /><br />    
-    <img align="center" src="https://readme-stats.jonas-bernard.dev/api?username=Korozin&show_icons=true&theme=transparent&count_private=true&hide_border=true" /><br />
-    <img allign="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Korozin&theme=transparent&count_private=true&hide_border=true" /><br />
+    <img align="center" src="https://readme-stats.jonas-bernard.dev/api/top-langs/?username=Korozin&theme=omni&langs_count=10&layout=compact&count_private=true&hide_border=true&custom_title=Languages%20UwU" /><br />    
+    <img align="center" src="https://readme-stats.jonas-bernard.dev/api?username=Korozin&show_icons=true&theme=omni&count_private=true&hide_border=true&custom_title=Stats%20OwO" /><br />
+    <img allign="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Korozin&theme=omni&count_private=true&hide_border=true" /><br />
 </div>
 
-<!--transparent**Korozin/Korozin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-###
 ---
