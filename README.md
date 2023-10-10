@@ -23,16 +23,6 @@
 
 ---
 
-<div align="center">
-  <h3>Social Media:</h3>
-  <p>GBATemp : <a href="https://gbatemp.net/members/korozin.571007/">@Korozin</a></p>
-  <p>YouTube : <a href="https://www.youtube.com/@KorOwOzin">@KorOwOzin</a></p>
-  <p>Gmail : <a href="mailto:mammothasdfman@gmail.com">mammothasdfman@gmail.com</a></p>
-  <p>Alt-Mail : <a href="mailto:korozin@net-c.com">korozin@net-c.com</a></p>
-</div>
-
----
-
 <!-- thx Cedeke -->
 
 <div align="center">
